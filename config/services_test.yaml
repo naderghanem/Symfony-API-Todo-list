@@ -1,0 +1,3 @@
+services:
+  Psr\Log\NullLogger: ~
+  logger: '@Psr\Log\NullLogger'
